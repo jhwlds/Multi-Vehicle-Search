@@ -14,4 +14,3 @@ def load_listings():
 
 # Load once at module import
 LISTINGS_BY_LOCATION = load_listings()
-
